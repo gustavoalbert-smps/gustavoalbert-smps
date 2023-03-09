@@ -2,9 +2,10 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-albert-lopes-sousa-0897aa237/)
 
-![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavoalbert-smps&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoalbert-smps&hide_progress=true)](https://github.com/gustavoalbert-smps/github-readme-stats)
+<div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavoalbert-smps&show_icons=true&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoalbert-smps&layout=compact&theme=tokyonight"/>
+</div>
 
 ## Principais tecnologias que utilizo no momento
 
